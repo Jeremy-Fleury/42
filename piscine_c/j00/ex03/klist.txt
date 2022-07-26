@@ -1,0 +1,5 @@
+Credentials cache: API:9C0FF3BA-4ED7-4865-B7BB-8B7219EB3243
+        Principal: jfleury@42.FR
+
+  Issued                Expires               Principal
+Jul 30 14:52:30 2018  Aug  6 14:52:30 2018  krbtgt/42.FR@42.FR

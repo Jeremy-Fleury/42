@@ -1,0 +1,47 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   SliderDouble.css                                   :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: allefebv <allefebv@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/09/24 14:19:12 by allefebv          #+#    #+#             */
+/*   Updated: 2020/09/24 14:19:12 by allefebv         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    pointer-events: all;
+    width: 15px;
+    height: 15px;
+    background-color: yellow;
+    border: 0, none;
+    border-radius: 50%;
+    pointer-events: all;
+    cursor: pointer;
+}
+
+input[type=range]::-moz-range-thumb {
+    -webkit-appearance: none;
+    pointer-events: all;
+    width: 15px;
+    height: 15px;
+    background-color: yellow;
+    border: 0, none;
+    border-radius: 50%;
+    pointer-events: all;
+    cursor: pointer;
+  }
+
+  input[type=range]::-ms-thumb {
+    -webkit-appearance: none;
+    pointer-events: all;
+    width: 15px;
+    height: 15px;
+    background-color: yellow;
+    border: 0, none;
+    border-radius: 50%;
+    pointer-events: all;
+    cursor: pointer;
+  }
